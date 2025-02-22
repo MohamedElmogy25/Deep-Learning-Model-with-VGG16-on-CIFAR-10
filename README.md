@@ -22,7 +22,7 @@ The **CIFAR-10** dataset consists of **60,000** 32x32 color images across **10 d
 Ensure you have **Python** installed, then install the required dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install tensorflow matplotlib tensorflow-datasets
 ```
 
 ## 🏗 Model Architecture 🧠
@@ -30,33 +30,8 @@ pip install -r requirements.txt
 - 🔗 Incorporates **fully connected layers** for classification refinement.
 - 📏 **Input images** are resized to **150x150** to align with VGG16 requirements.
 
-## 🚀 Usage 💡
-### 🔹 Clone the Repository
-To get started, **clone** this repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/your-username/deep-learning-vgg16-cifar10.git
-cd deep-learning-vgg16-cifar10
-```
-
-### 🔹 Train and Evaluate the Model 🎓
-Run the following command to train and evaluate the model:
-
-```bash
-python model.py
-```
-
 ### 🔹 View Results 📊
 Performance metrics such as **accuracy** and **loss** are visualized using **Matplotlib** 📉📈.
-
-## 📁 Repository Structure 🏗
-```
-├── model.py          # 🏋️‍♂️ Main script for training and evaluation
-├── requirements.txt  # 📜 List of dependencies
-├── README.md         # 📖 Project documentation
-├── dataset/          # 📂 Directory for dataset storage (if applicable)
-└── LICENSE           # 🔖 License file
-```
 
 ## 📜 License ⚖️
 This project is distributed under the **MIT License**. Refer to the [LICENSE](LICENSE) file for details. 📄

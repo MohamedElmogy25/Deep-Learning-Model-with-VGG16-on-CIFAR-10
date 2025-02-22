@@ -41,14 +41,6 @@ Special thanks to:
 - 🛠 **TensorFlow & Keras** for providing an advanced deep learning framework.
 - 📚 **TensorFlow Datasets** for seamless dataset integration.
 
-## 🌟 Contribution Guidelines 👥
-We welcome **contributions** from the community! If you wish to contribute, follow these steps:
-1️⃣ **Fork** the repository.
-2️⃣ **Create a new branch** (`git checkout -b feature-branch`).
-3️⃣ **Make your changes** and commit them (`git commit -m 'Add new feature'`).
-4️⃣ **Push** the changes to your fork (`git push origin feature-branch`).
-5️⃣ **Open a Pull Request**.
-
 For major changes, please open an **issue** first to discuss proposed modifications. 🚀
 
 ---
